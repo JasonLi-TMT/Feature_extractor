@@ -1,6 +1,0 @@
-/Pretrained_models/wavenet-ckpt/*
-feature_extractor.egg-info/
-setup.py
-.DS_Store
-dist
-git_update.sh
